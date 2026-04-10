@@ -1,6 +1,9 @@
 ﻿# SQL-Injection
  # SQL Injection Security Tester
 
+ <img width="1466" height="185" alt="image" src="https://github.com/user-attachments/assets/19561279-76e2-4700-b63d-fccf6673e3ae" />
+
+
 **FAQAT O'Z WEB SAYTINGIZNI TEST QILISH UCHUN!**
 
 ## Qonuniy ogohlantirish
