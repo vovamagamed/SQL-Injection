@@ -23,7 +23,7 @@ git clone [your-repo]
 cd [repo-name]
 pip install -r requirements.txt
 Ishlatish
-python sql_tester.py
+python python_2026.py
 
 **MUHIM:** Bu vosita faqat **ZAIFLIKNI ANIQLAYDI**, exploit qilmaydi. Agar zaiflik topsa, uni **O'ZINGIZ TUZATING** (parametrlashtirilgan so'rovlar bilan). 
 
